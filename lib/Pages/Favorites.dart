@@ -11,7 +11,7 @@ class Favorites extends StatefulWidget {
   State<Favorites> createState() => _FavoritesState();
 }
 
-class _FavoritesState extends State<Favorites> {
+class  _FavoritesState extends State<Favorites> {
   List<Map<String, dynamic>> favItem = List.empty();
   bool isLoading = true;
 
