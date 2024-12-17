@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "899681713435",
+    "firebase_url": "https://mobilecomp-4b17b-default-rtdb.firebaseio.com",
+    "project_id": "mobilecomp-4b17b",
+    "storage_bucket": "mobilecomp-4b17b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899681713435:android:4964e8970dfa3d879827be",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDedKq-NRuqRb6uybvfQXSF0hDTuUl4M1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
