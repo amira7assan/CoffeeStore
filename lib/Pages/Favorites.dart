@@ -55,7 +55,7 @@ class _FavoritesState extends State<Favorites> {
           width: MediaQuery.sizeOf(context).width,
           height: MediaQuery.sizeOf(context).height,
           child: isLoading
-              ? const Center(
+               ? const Center(
                   child: CircularProgressIndicator(),
                 )
               : (favItem.isEmpty)
